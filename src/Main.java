@@ -42,6 +42,11 @@ public class Main {
         for (int e = 7; e <=98; e = e + 7){
             System.out.println("Число " + e);
         }
+        //Задание 2.3
+        System.out.println("Задание 2.3");
+        for (int f = 1; f <= 512; f = f * 2){
+            System.out.println("Число " + f);
+        }
 
 
 
