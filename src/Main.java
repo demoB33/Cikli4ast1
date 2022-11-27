@@ -37,6 +37,11 @@ public class Main {
         for (int g = 1904; g <= 2096; g = g + 4){
             System.out.println(g + " год являеттся високосным " );
         }
+        //задача 2.2
+        System.out.println("Задача 2.2 :");
+        for (int e = 7; e <=98; e = e + 7){
+            System.out.println("Число " + e);
+        }
 
 
 
