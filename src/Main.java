@@ -30,8 +30,14 @@ public class Main {
         System.out.println("Задание 4");
         for (int d = 10; d >= -10; d--){
             System.out.println("Число " + d);
-
         }
+        //ДЗ-2
+        //Задача 2.1
+        System.out.println("Задача 2.1 :");
+        for (int g = 1904; g <= 2096; g = g + 4){
+            System.out.println(g + " год являеттся високосным " );
+        }
+
 
 
 
