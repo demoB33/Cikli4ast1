@@ -26,6 +26,12 @@ public class Main {
                 System.out.println("Число " + c);
             }
         }
+        //Задание 4
+        System.out.println("Задание 4");
+        for (int d = 10; d >= -10; d--){
+            System.out.println("Число " + d);
+
+        }
 
 
 
