@@ -19,6 +19,14 @@ public class Main {
             System.out.println("Число " + b);
 
         }
+        //Задание 3
+        System.out.println("Задание 3 :");
+        for ( int c = 1; c <= 17 ; c++){
+            if (c % 2 ==0 ) {
+                System.out.println("Число " + c);
+            }
+        }
+
 
 
     }
