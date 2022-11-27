@@ -13,6 +13,12 @@ public class Main {
             System.out.println("Число " + a);
 
         }
+        //Задание 2
+        System.out.println("Задание 2 :");
+        for (int b = 10; b >= 1; b--){
+            System.out.println("Число " + b);
+
+        }
 
 
     }
