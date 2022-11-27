@@ -7,5 +7,13 @@ public class Main {
         }
 
 
+        //Задание 1
+        System.out.println("Задание 1 :");
+        for (int a = 1; a <=10; a++){
+            System.out.println("Число " + a);
+
+        }
+
+
     }
 }
