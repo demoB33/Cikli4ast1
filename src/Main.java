@@ -47,14 +47,16 @@ public class Main {
         for (int f = 1; f <= 512; f = f * 2){
             System.out.println("Число " + f);
         }
-        //Задание 3.1
-        System.out.println("Задание 3.3 :");
+        //Задание 3.1 + Задание 3.2
+        System.out.println("Задание 3.1 :");
         int salary = 29000;
         int total =  0;
         for (int i = 1; i <= 12; i++){
+            total = total + total/100;
             total = total + salary;
             System.out.println("Месяц " + i + ", сумма накоплений равна " + total + " рублей");
         }
+
 
 
 
